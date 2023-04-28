@@ -43,6 +43,5 @@
 19) Output : 
     1
     4
-    undefined
     3
     2
